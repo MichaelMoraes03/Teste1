@@ -6,3 +6,9 @@ idade:21
 esporte:volei
 
 ######################################
+
+nome: michael
+idade:21
+esporte:Volei
+
+######################################
