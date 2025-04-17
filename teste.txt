@@ -1,8 +1,8 @@
 ############## bem vindo ##############
 
 
-nome:
-idade:
-esporte:
+nome:Delicinha
+idade:21
+esporte:volei
 
 ######################################
