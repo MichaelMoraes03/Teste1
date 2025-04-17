@@ -6,3 +6,9 @@ idade:21
 esporte:Volei
 
 ######################################
+
+nome:Delicinha
+idade:21
+esporte:volei
+
+######################################
